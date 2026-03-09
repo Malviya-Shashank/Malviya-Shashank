@@ -1,20 +1,20 @@
 <!-- ================================================= -->
 
-<!--                  DEVOPS BANNER                    -->
+<!--                     HEADER                        -->
 
 <!-- ================================================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shashank%20Malviya&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Shashank%20Malviya&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h3 align="center">
-AWS Certified DevOps Engineer • Kubernetes • Terraform • CI/CD • DevSecOps
+🚀 AWS DevOps Engineer • Kubernetes • Terraform • CI/CD • DevSecOps
 </h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=DevOps+Engineer+with+4%2B+Years+Experience;AWS+Cloud+Infrastructure+Engineer;Kubernetes+%7C+Terraform+%7C+GitOps;CI%2FCD+Automation+Specialist;DevSecOps+%7C+FinOps+Practitioner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=DevOps+Engineer+with+4%2B+Years+Experience;AWS+Cloud+Infrastructure+Engineer;Kubernetes+%7C+Terraform+%7C+GitOps;CI%2FCD+Automation+Specialist;Building+Scalable+Cloud+Platforms"/>
 
 </p>
 
@@ -22,29 +22,22 @@ AWS Certified DevOps Engineer • Kubernetes • Terraform • CI/CD • DevSecO
 
 # 👨‍💻 About Me
 
-DevOps Engineer with **4+ years of hands-on experience** building **cloud-native scalable infrastructure**.
+DevOps Engineer with **4+ years of experience** designing and operating **production-grade cloud infrastructure**.
 
-Specialized in:
+### Core Expertise
 
-* AWS Cloud Architecture
-* Kubernetes Production Operations
-* Terraform Infrastructure as Code
-* CI/CD Automation
-* DevSecOps Security Integration
-* Cloud Cost Optimization (FinOps)
-
-### 📈 Achievements
-
-✔ Reduced deployment time **30%**
-✔ Reduced **MTTR by 50%**
-✔ Achieved **30% cloud cost optimization**
-✔ Built **production Kubernetes environments**
+☁ AWS Cloud Infrastructure
+☸ Kubernetes Production Operations
+🏗 Infrastructure as Code (Terraform)
+🔁 CI/CD & GitOps
+🔐 DevSecOps Security
+📊 Observability Engineering
 
 ---
 
-# 👀 Profile Visitors
+# 👀 Profile Views
 
-<p align="left">
+<p>
 <img src="https://komarev.com/ghpvc/?username=shashank-malviya&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
@@ -54,34 +47,41 @@ Specialized in:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,python,bash,prometheus,grafana"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,prometheus,grafana,python,bash"/>
 
 </p>
 
 ---
 
-# ☁ DevOps Architecture Expertise
+# ☁ DevOps CI/CD Architecture
 
-```
+```text
 Developer
    │
    ▼
-GitHub / GitLab
+GitHub Repository
    │
    ▼
-CI Pipeline (GitHub Actions / Jenkins)
+CI Pipeline
+(GitHub Actions / Jenkins)
    │
    ▼
-Docker Build
+Build & Test
    │
    ▼
-Container Registry (ECR)
+Docker Image Build
    │
    ▼
-Kubernetes Deployment (EKS)
+Push to AWS ECR
    │
    ▼
-Ingress Controller
+Deploy via Helm
+   │
+   ▼
+Kubernetes Cluster (EKS)
+   │
+   ▼
+NGINX Ingress
    │
    ▼
 Production Application
@@ -93,11 +93,56 @@ Monitoring
 
 ---
 
+# ☸ Kubernetes Cluster Architecture
+
+```text
+Internet
+   │
+   ▼
+AWS ALB
+   │
+   ▼
+NGINX Ingress Controller
+   │
+   ▼
+Kubernetes Services
+   │
+   ▼
+Pods
+   │
+   ├── Backend Pods
+   ├── Frontend Pods
+   └── Worker Pods
+   │
+   ▼
+Monitoring Stack
+Prometheus + Grafana
+```
+
+---
+
+# 🏗 Terraform Infrastructure Architecture
+
+```text
+Terraform
+   │
+   ├── VPC Module
+   ├── EKS Module
+   ├── IAM Module
+   ├── ALB Module
+   └── Auto Scaling Module
+
+Remote State:
+S3 + DynamoDB Locking
+```
+
+---
+
 # 🚀 Featured DevOps Projects
 
 ### 🔹 90 Days of DevOps
 
-Hands-on DevOps learning project covering:
+Hands-on DevOps learning covering:
 
 * Linux
 * Docker
@@ -110,42 +155,37 @@ Hands-on DevOps learning project covering:
 
 ### 🔹 Terraform AWS Infrastructure
 
-Production-ready Terraform modules:
+Production-grade Terraform modules:
 
-* VPC
-* EKS
-* IAM
-* ALB
-* Auto Scaling
+✔ VPC
+✔ EKS
+✔ IAM
+✔ ALB
+✔ Auto Scaling
 
 Includes:
 
-✔ Remote State (S3)
-✔ State Locking (DynamoDB)
-✔ Modular Architecture
+* Remote state
+* State locking
+* Modular architecture
 
 ---
 
 ### 🔹 GitOps Kubernetes Deployment
 
-Production GitOps architecture using:
+Production deployment workflow using:
 
-* Helm
-* ArgoCD
-* Kubernetes
-* GitHub
-
-Automated deployment workflow.
+Helm + ArgoCD + Kubernetes + GitHub
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Dashboard
 
 <p align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=shashank-malviya&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-malviviya&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-malviya&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -198,12 +238,12 @@ Automated deployment workflow.
 
 ---
 
-# 📚 Current Learning
+# 📚 Currently Learning
 
-* Advanced Kubernetes Networking
 * Platform Engineering
-* GitOps Architecture
+* Advanced Kubernetes Networking
 * Observability Engineering
+* Multi-Cloud DevOps
 
 ---
 
@@ -229,7 +269,7 @@ Automated deployment workflow.
 > Monitor Everything
 > Secure Everything
 
-Building **scalable, resilient, and production-grade cloud systems.**
+Building **scalable, resilient, production-grade cloud platforms.**
 
 ---
 
